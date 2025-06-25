@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## 안녕하세요 냥냥입니다.
+### 집이 최고입니다.
 <!--
 **merunyanya/merunyanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
