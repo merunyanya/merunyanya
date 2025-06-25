@@ -6,5 +6,4 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 서원대 컴공과 25학번 </li>최정현 입니다.</li>아직 배운 것이 얼마 없어서 소개할 게 없네요. </li>열심히 하겠습니다. </li>감사합니다. </div> 
     </div>
     ~~ 절대 공부를 안 해서가 아닙니다. ~~
-    <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat&logo=c&logoColor=white"/>
     
